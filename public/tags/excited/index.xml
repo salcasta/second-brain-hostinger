@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excited on Terminal</title>
+    <link>/tags/excited/</link>
+    <description>Recent content in Excited on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/excited/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Setup My Blog!</title>
+      <link>/posts/01_03_2025/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/01_03_2025/</guid>
+      <description>&lt;h2 id=&#34;night&#34;&gt;Night&lt;/h2&gt;
+&lt;p&gt;I finished setting up my blog using Obsidian as my home for creating a post. I used &lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt; to style my blog/post automatically and have it be easy.&lt;/p&gt;
+&lt;p&gt;My Obsidian files and Hugo files are uploaded to my Github which is linked to my hosting site &lt;a href=&#34;https://www.hostinger.com/&#34;&gt;https://www.hostinger.com/&lt;/a&gt; via a webhook.&lt;/p&gt;
+&lt;p&gt;One script command is used in the terminal to make everything happen. So, I make my post in Obsidian and then run the script and my blog post is uploaded to the internet. Images will upload as well.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;night&#34;&gt;Night&lt;/h2&gt;
+&lt;p&gt;I finished setting up my blog using Obsidian as my home for creating a post. I used &lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt; to style my blog/post automatically and have it be easy.&lt;/p&gt;
+&lt;p&gt;My Obsidian files and Hugo files are uploaded to my Github which is linked to my hosting site &lt;a href=&#34;https://www.hostinger.com/&#34;&gt;https://www.hostinger.com/&lt;/a&gt; via a webhook.&lt;/p&gt;
+&lt;p&gt;One script command is used in the terminal to make everything happen. So, I make my post in Obsidian and then run the script and my blog post is uploaded to the internet. Images will upload as well.&lt;/p&gt;
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m very excited to start my blogging journey where I will just write about my day. The point is to motivate me to do something&amp;hellip;anything! If I can&amp;rsquo;t write about something then that means I had a very unproductive day. It doesn&amp;rsquo;t need to be productive but if I write about playing a new video game and that is all I have for that day, then that is a problem.&lt;/p&gt;
+&lt;p&gt;The goal is that I will force myself to&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;workout&lt;/li&gt;
+&lt;li&gt;read&lt;/li&gt;
+&lt;li&gt;cook&lt;/li&gt;
+&lt;li&gt;learn something new&lt;/li&gt;
+&lt;li&gt;go somewhere new&lt;/li&gt;
+&lt;li&gt;start a new hobby&lt;/li&gt;
+&lt;li&gt;plan a future trip&lt;/li&gt;
+&lt;li&gt;seriously anything!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;in order to create a somewhat compelling post. The goal is to do this for all of 2025.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
