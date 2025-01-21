@@ -6,7 +6,90 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Studying Plan</title>
+      <link>/posts/01_21_2025/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/01_21_2025/</guid>
+      <description>&lt;h2 id=&#34;crafting-a-studying-plan&#34;&gt;Crafting a Studying Plan&lt;/h2&gt;
+&lt;p&gt;It is official! My start date will be February 24, which means I have a little more than month to prepare for the role in some capacity. With the help of ChatGPT I was able to find some resources that will help me hit the ground running come Feb 24.&lt;/p&gt;
+&lt;h4 id=&#34;technical&#34;&gt;Technical&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Continue to learn SQL via DataCamp&lt;/li&gt;
+&lt;li&gt;Learn more about Tableau via DataCamp&lt;/li&gt;
+&lt;li&gt;Learn about SAP Analytics Cloud via SAP Learning Hub&lt;/li&gt;
+&lt;li&gt;Pick a cloud platform to learn (not as important now)&lt;/li&gt;
+&lt;li&gt;Learn more about Python or R (probably best to focus on R for now)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;business--consulting&#34;&gt;Business / Consulting&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Learn about how businesses use analytics to set strategy and solve problems&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;crafting-a-studying-plan&#34;&gt;Crafting a Studying Plan&lt;/h2&gt;
+&lt;p&gt;It is official! My start date will be February 24, which means I have a little more than month to prepare for the role in some capacity. With the help of ChatGPT I was able to find some resources that will help me hit the ground running come Feb 24.&lt;/p&gt;
+&lt;h4 id=&#34;technical&#34;&gt;Technical&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Continue to learn SQL via DataCamp&lt;/li&gt;
+&lt;li&gt;Learn more about Tableau via DataCamp&lt;/li&gt;
+&lt;li&gt;Learn about SAP Analytics Cloud via SAP Learning Hub&lt;/li&gt;
+&lt;li&gt;Pick a cloud platform to learn (not as important now)&lt;/li&gt;
+&lt;li&gt;Learn more about Python or R (probably best to focus on R for now)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;business--consulting&#34;&gt;Business / Consulting&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Learn about how businesses use analytics to set strategy and solve problems&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Storytelling with Data&lt;/em&gt; by Cole Nussbaumer Knaflic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learn the basics of a project management frameworks (either Agile or Scrum)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare for interacting with sales team members and customers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Trusted Advisor&lt;/em&gt; by David H&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Read articles and Youtube videos on &lt;strong&gt;KPIs&lt;/strong&gt;, &lt;strong&gt;dashboard design principles&lt;/strong&gt;, and &lt;strong&gt;data-driven decision-making&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Practice business writing and writing concise reports&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Pyramid Principle: Logic in Writing and Thinking&lt;/em&gt; by Barbara Minto.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-schedule&#34;&gt;The Schedule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Start waking up early (start 9-10 am then move it to 6-7 am)
+&lt;ul&gt;
+&lt;li&gt;Go to the gym&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;After the gym and eating breakfast
+&lt;ul&gt;
+&lt;li&gt;Study SQL and Tableau (an hour for each)&lt;/li&gt;
+&lt;li&gt;Learn about SAP Analytics Cloud (an hour)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;After eating lunch
+&lt;ul&gt;
+&lt;li&gt;Read &lt;em&gt;Storytelling with Data&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Read &lt;em&gt;The Trusted Advisor&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Read &lt;em&gt;The Pyramid Principle: Logic in Writing and Thinking&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Read 2 books and then have dinner and then read the other book&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Substitute in learning R or reading articles/watching Youtube videos if you are not in the mood for one of the other subjects. Even if I start at 10 I should be done by 5-6 pm and that gives me time to relax and play video games or watch tv. Do this during the week and take the weekends off if needed.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Meal Prepping</title>
       <link>/posts/01_13_2025/</link>
