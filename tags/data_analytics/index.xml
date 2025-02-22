@@ -6,7 +6,143 @@
     <description>Recent content in Data_analytics on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/data_analytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/data_analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contingencies</title>
+      <link>/posts/02_22_2025/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/02_22_2025/</guid>
+      <description>&lt;h2 id=&#34;3-pronged-attack&#34;&gt;3 Pronged Attack&lt;/h2&gt;
+&lt;p&gt;I have one year of employment guaranteed, but after that it is unknown due to the uncertainty of the economy and the situation with the Federal government. I have devised a plan to utilize the following year to ensure I get a job as quickly as possible if I am not retained with my current employer.&lt;/p&gt;
+&lt;h3 id=&#34;sap-certificates&#34;&gt;SAP Certificates&lt;/h3&gt;
+&lt;p&gt;The first course of action is to get 2 SAP certificates. One with their most used software Ariba and the other will be a data analytics solution of my choosing. This will allow me to target companies that use the same software. This could be a major advantage for me since 90% of Fortune 500 companies use SAP software.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;3-pronged-attack&#34;&gt;3 Pronged Attack&lt;/h2&gt;
+&lt;p&gt;I have one year of employment guaranteed, but after that it is unknown due to the uncertainty of the economy and the situation with the Federal government. I have devised a plan to utilize the following year to ensure I get a job as quickly as possible if I am not retained with my current employer.&lt;/p&gt;
+&lt;h3 id=&#34;sap-certificates&#34;&gt;SAP Certificates&lt;/h3&gt;
+&lt;p&gt;The first course of action is to get 2 SAP certificates. One with their most used software Ariba and the other will be a data analytics solution of my choosing. This will allow me to target companies that use the same software. This could be a major advantage for me since 90% of Fortune 500 companies use SAP software.&lt;/p&gt;
+&lt;h3 id=&#34;networking--cybersecurity&#34;&gt;Networking / Cybersecurity&lt;/h3&gt;
+&lt;p&gt;The second course of action is to familiarize myself with another sector of the tech industry. I recently came across a Youtuber named NetworkChuck and he has introduced me to the IT side of the industry. He recently created a roadmap for people looking to get into IT. It involves getting 3 certificates and the time period is one year to have enough time to learn and study for the 3 certificates.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Foundation via CompTIA A+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;2 exams - $253 each&lt;/li&gt;
+&lt;li&gt;free option - Professor Messer (Youtube)&lt;/li&gt;
+&lt;li&gt;premium option - ITPro&lt;/li&gt;
+&lt;li&gt;keep your eye on - academy.networkchuck.com (not complete yet)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;while studying for CompTIA A+ learn &lt;strong&gt;linux&lt;/strong&gt; and &lt;strong&gt;python&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Security via CompTIA Security+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;1 exam - $404&lt;/li&gt;
+&lt;li&gt;free option - Professor Messer (Youtube)&lt;/li&gt;
+&lt;li&gt;premium option - ITPro&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;practice your skills with &lt;a href=&#34;https://overthewire.org/wargames&#34;&gt;https://overthewire.org/wargames&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Networking via Cisco CCNA or CompTIA Network+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;For Cisco CCNA
+&lt;ol&gt;
+&lt;li&gt;1 exam - $300&lt;/li&gt;
+&lt;li&gt;free option - Jeremy&amp;rsquo;s IT Labs&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;For CompTIA Network+
+&lt;ol&gt;
+&lt;li&gt;1 exam - $369&lt;/li&gt;
+&lt;li&gt;free option - Professor Messer (Youtube)&lt;/li&gt;
+&lt;li&gt;premium option - ITPro&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OPTIONAL Hacking via eJPT or CompTIA PenTest+ or CPTS or OSCP&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;For eJPT
+&lt;ol&gt;
+&lt;li&gt;1 exam - $249&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;For CompTIA PenTest+
+&lt;ol&gt;
+&lt;li&gt;1 exam - $301&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;For CPTS
+&lt;ol&gt;
+&lt;li&gt;use &lt;a href=&#34;https://hackthebox.com&#34;&gt;https://hackthebox.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;pricing is very expensive for learning platform&lt;/li&gt;
+&lt;li&gt;exam is $490&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;For OSCP
+&lt;ol&gt;
+&lt;li&gt;exam and lab access is $1649&lt;/li&gt;
+&lt;li&gt;only pursue after you have an IT job or have been retained by current employer&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;data-analytics--investment-banking&#34;&gt;Data Analytics / Investment Banking&lt;/h3&gt;
+&lt;p&gt;For this final course of action I will continue learning SQL, R, Tableau, Python Pandas from DataCamp. I will also learn how to use these analytical skills in the finance sector. To break into investment banking, private equity, or venture capital it will take more than learning online to get a job. Social networking will be needed to land a job, but learning online will make me knowledgable when discussing on the subject.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Platform&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Best For&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Strength&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Wall Street Prep (WSP)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Practical modeling &amp;amp; real-world cases&lt;/td&gt;
+          &lt;td&gt;$39/month – $499+&lt;/td&gt;
+          &lt;td&gt;Industry-standard financial modeling&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Wall Street Oasis (WSO)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Networking &amp;amp; insider knowledge&lt;/td&gt;
+          &lt;td&gt;$30/month – $197+&lt;/td&gt;
+          &lt;td&gt;Community-driven interview insights&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Break Into Wall Street&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Intensive modeling &amp;amp; technical prep&lt;/td&gt;
+          &lt;td&gt;$497/course&lt;/td&gt;
+          &lt;td&gt;Lifetime access &amp;amp; advanced materials&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Corporate Finance Institute&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Affordable, beginner-friendly programs&lt;/td&gt;
+          &lt;td&gt;$497/year&lt;/td&gt;
+          &lt;td&gt;FMVA certification &amp;amp; corporate focus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Financial Edge&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Official bank training&lt;/td&gt;
+          &lt;td&gt;~$600/course&lt;/td&gt;
+          &lt;td&gt;Used by bulge-bracket firms&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h3&gt;
+&lt;p&gt;The plan is to stay in the office and study as well as on the weekends. This is meant to be done in my free time and is not meant to be a vigorous study plan. The job comes first no matter what and this whole plan assumes I will have a good handle on things at work.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Studying Plan</title>
       <link>/posts/01_21_2025/</link>
